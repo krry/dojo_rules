@@ -3,3 +3,4 @@ I love Ruby and JavaScript!
 * HTML
 * Javascript
 * Wiping
+* Killing history using git rebase
